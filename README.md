@@ -26,6 +26,8 @@
 *Contador De Visitas*
 
 ![VisitorCount](https://profile-counter.glitch.me/{aritarruda}/count.svg)
+  
+ ![Snake animation](https://github.com/aritarruda/aritarruda/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **aritarruda/aritarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
