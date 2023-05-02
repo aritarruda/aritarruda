@@ -1,4 +1,4 @@
-# Oi, Eu sou Ana Rita 👋
+# Oi, Eu sou Ana Rita 😊
 
 ## 🔭 I’m currently working on 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
