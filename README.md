@@ -17,7 +17,8 @@
 
 ![aritarruda's Stats](https://github-readme-stats.vercel.app/api?username=aritarruda&theme=dracula&show_icons=true&hide_border=true&count_private=true)
   
- 
+ <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritarruda&layout=compact&langs_count=7&theme=react" />
+
 ***********************
 *Contador De Visitas*
 
